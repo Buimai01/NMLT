@@ -1,0 +1,19 @@
+div {
+        
+    padding: 5px;
+    background-color: hotpink;
+}
+
+.add {
+    background-color: gray;
+    color: white;
+    border-radius: 15%; 
+}
+
+body {
+    background-color: pink;
+}
+#danhsach{
+    background-color: deeppink;
+    border: 2px;
+}
